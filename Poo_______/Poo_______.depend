@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1526840514 source:c:\users\mihai alex\desktop\poo_______\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<string>
+
+1526841104 source:f:\poo_______\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<string>
+
+1526841104 source:c:\users\grigo\desktop\poo_______\main.cpp
+	<iostream>
+	<cstring>
+	<windows.h>
+	<string>
+
